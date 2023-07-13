@@ -1,6 +1,6 @@
-.idea
-.vscode
-.DS_Store
+git rm --cached <.idea>
+git rm --cached <.vscode>
+git rm --cached <.DS_Store>
 .sqlite3
 db.sqlite3
 
